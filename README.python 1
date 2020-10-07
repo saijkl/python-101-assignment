@@ -5,3 +5,12 @@ largest element is: 78
 Output: Task 2
 runfile('C:/Users/191276/untitled1.py', wdir='C:/Users/191276')
 Second largest element is: 67
+
+output : Task 3 
+runfile('C:/Users/191276/untitled2.py', wdir='C:/Users/191276')
+[2.13, 24, 67, 45, 78, 4, 23, 34, 56, 89, 101]
+
+output : Task 4
+runfile('C:/Users/191276/untitled4.py', wdir='C:/Users/191276')
+[2.13, 24, 67, 45, 78, 4, 23, 34, 56, 89, 101]
+[101, 4, 23, 24, 34, 45, 56, 67, 78, 89, 2.13]
