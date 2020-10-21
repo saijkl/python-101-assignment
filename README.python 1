@@ -30,3 +30,55 @@ Enter your user ID: Sai678
 
 Enter password: Sai67rty
 Registeration successful
+
+
+Assignment withdrawal ,deposit ,view balance ,quit
+runfile('D:/python/untitled0.py', wdir='D:/python')
+    ATM    
+
+1)        Balance
+2)        Withdraw
+3)        Deposit
+4)        Quit
+
+
+
+
+Enter Option: 1
+Balance  £  10000
+
+runfile('D:/python/untitled0.py', wdir='D:/python')
+    ATM    
+
+1)        Balance
+2)        Withdraw
+3)        Deposit
+4)        Quit
+
+
+
+
+Enter Option: 2
+Balance  £   10000
+
+Enter Withdraw amount £ 4567
+Foreward Balance  £  5433.0
+
+runfile('D:/python/untitled0.py', wdir='D:/python')
+    ATM    
+
+1)        Balance
+2)        Withdraw
+3)        Deposit
+4)        Quit
+
+
+
+
+Enter Option: 3
+Balance  £  10000
+
+Enter deposit amount £ 45678
+Forewardbalance  £  55678.0
+
+runfile('D:/python/untitled0.py', wdir='D:/python')
