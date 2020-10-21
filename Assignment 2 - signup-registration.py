@@ -1,25 +1,16 @@
-def verify_pin(pin):
-    if pin == '1234':
-        return True
-    else:
-        return False
-
-def log_in():
-    tries = 0
-    while tries < 4:
-        pin = input('Please Enter Your 4 Digit Pin: ')
-        if verify_pin(pin):
-            print("Pin accepted!")
-            return True
+class signup:
+    def __init__(self, id, password):
+        self.id = id
+        self.password = password
+        self.error = "Enter a valid username and password"
+    def check(self):
+        if (self.id == log_id and self.password == log_pass):
+            print("Registeration successful")
         else:
-            print("Invalid pin")
-            tries += 1
-    print("To many incorrect tries. Could not log in")
-    return False
-
-def start_menu():
-    print("Welcome to the atm!")
-    if log_in():
-                            print("Exiting Program")
-
-start_menu()
+            print(self.error)    
+            
+log = signup("Sai678",   "Sai67rty")
+log_id = input("Enter your user ID: ")
+log_pass = input("Enter password: ")
+log.check()   
+              
