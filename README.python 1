@@ -22,3 +22,11 @@ Assignment 2 change pin -exit
 Please Enter Your 4 Digit Pin: 1234
 Pin accepted!
 Exiting Program
+
+Assignment sign up 
+runfile('D:/python/Assignment 2 - changepin-exit.py', wdir='D:/python')
+
+Enter your user ID: Sai678
+
+Enter password: Sai67rty
+Registeration successful
